@@ -1,0 +1,3367 @@
+[
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGFertilizer",
+        "label": "肥料",
+        "icon": "fertilizer",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "b",
+                "excursion": "",
+                "useNode": "79tqWy_WWP-WbIL3WK2mv"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "#78D750",
+            "top": 230,
+            "left": 12
+        },
+        "id": "9bjpVF45EGfq-aEwR6unu"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGReservoir",
+        "label": "蓄水池",
+        "icon": "reservoir",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "b",
+                "excursion": "",
+                "useNode": "cYByD_GApSEtC7kIXCQ5r"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 90,
+            "left": 12
+        },
+        "id": "O0l0YkIU4MEyArU0H1Usf"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGPipeBend",
+        "label": "弯头",
+        "icon": "pipe-bend",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    -0.2
+                ],
+                "useNode": "XOw4jh7atRDV0QT48o6sw"
+            },
+            {
+                "location": "b",
+                "excursion": [
+                    -0.23,
+                    0
+                ],
+                "useNode": "tIZhEeo0nP30raTe7IREy"
+            }
+        ],
+        "style": {
+            "rotate": 90,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 146,
+            "left": 1550
+        },
+        "id": "0BnBKU9j16nqbsQonEOVM"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGTeeFitting",
+        "label": "三通",
+        "icon": "tee-fitting",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "t",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "vouC4bx9qvkgdFaq5_9PI",
+                "open": true
+            },
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "khoXtapMmM6LVojVtJLmE",
+                "open": true
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "sFyK5DmR8PNibU5diyiw-",
+                "open": true
+            }
+        ],
+        "style": {
+            "rotate": 180,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "top": 372,
+            "left": 1049
+        },
+        "id": "1Ivtk_L_HCvPJR7eVSRRA"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLiquidManure",
+        "label": "水肥一体机",
+        "icon": "liquid-manure",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "b",
+                "excursion": [
+                    0,
+                    0
+                ],
+                "useNode": "xT2a67nBU4ATdWZjXGRTu",
+                "open": true
+            },
+            {
+                "location": "l",
+                "excursion": [
+                    0.1,
+                    0
+                ],
+                "useNode": "cYByD_GApSEtC7kIXCQ5r",
+                "open": true
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    -0.1,
+                    0
+                ],
+                "useNode": "E-rcReA8AwFC3AuJ3yTtu",
+                "open": true
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "#8a8a8a",
+            "top": 133,
+            "left": 164
+        },
+        "id": "HzYoa7JWck11U42LQs-8o"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGPipeBend",
+        "label": "弯头",
+        "icon": "pipe-bend",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    -0.2
+                ],
+                "useNode": "79tqWy_WWP-WbIL3WK2mv"
+            },
+            {
+                "location": "b",
+                "excursion": [
+                    -0.23,
+                    0
+                ],
+                "useNode": "xT2a67nBU4ATdWZjXGRTu"
+            }
+        ],
+        "style": {
+            "rotate": 180,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 252,
+            "left": 149
+        },
+        "id": "bBb365kdrLQiH5ypzdxP8"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGFarmland",
+        "label": "田",
+        "icon": "farmland",
+        "sensorData": [
+            {
+                "id": "",
+                "name": "",
+                "temperature": "",
+                "humidity": "",
+                "pH": "",
+                "conductivity": ""
+            }
+        ],
+        "node": [
+            {
+                "location": "t",
+                "excursion": "",
+                "useNode": "njttn97ggXnkUzWa7OmR7"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 681,
+            "left": 1053
+        },
+        "id": "B8_D6rpgWnaCqYf9nrdNd"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                207.4,
+                252
+            ],
+            [
+                204,
+                213
+            ]
+        ],
+        "start": {
+            "id": "bBb365kdrLQiH5ypzdxP8",
+            "location": "b"
+        },
+        "end": {
+            "id": "HzYoa7JWck11U42LQs-8o",
+            "location": "b"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "xT2a67nBU4ATdWZjXGRTu"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGExhaustValve",
+        "label": "排气阀",
+        "icon": "exhaust-valve",
+        "propValue": "",
+        "node": [
+            {
+                "location": "b",
+                "excursion": "",
+                "useNode": "QGnVI-q6lM-ZzMRsNmRJL"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "#666666",
+            "top": 6,
+            "left": 580
+        },
+        "id": "nNFqh-SV9imzLwLMjwi3r"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGTeeFitting",
+        "label": "三通",
+        "icon": "tee-fitting",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "t",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "QGnVI-q6lM-ZzMRsNmRJL",
+                "open": true
+            },
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "NWkIYR-LGZh_wVShtC8mJ",
+                "open": true
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "wisXhKbs4LA_LSvKYKfEv",
+                "open": true
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "top": 125,
+            "left": 580
+        },
+        "id": "suKo9NX1u_mYaYZrXVuDU"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                620,
+                133
+            ],
+            [
+                620,
+                86
+            ]
+        ],
+        "start": {
+            "id": "suKo9NX1u_mYaYZrXVuDU",
+            "location": "t"
+        },
+        "end": {
+            "id": "nNFqh-SV9imzLwLMjwi3r",
+            "location": "b"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "QGnVI-q6lM-ZzMRsNmRJL"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGFilter",
+        "label": "过滤器",
+        "icon": "filter",
+        "propValue": "",
+        "node": [
+            {
+                "location": "l",
+                "excursion": "",
+                "useNode": "wisXhKbs4LA_LSvKYKfEv"
+            },
+            {
+                "location": "r",
+                "excursion": "",
+                "useNode": "JOOWcMMJJUTMDMAQ_2jtE"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "#606677",
+            "top": 133,
+            "left": 749
+        },
+        "id": "HisxQ-_weiqTJRD2LxXGR"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                660,
+                173
+            ],
+            [
+                749,
+                173
+            ]
+        ],
+        "start": {
+            "id": "suKo9NX1u_mYaYZrXVuDU",
+            "location": "r"
+        },
+        "end": {
+            "id": "HisxQ-_weiqTJRD2LxXGR",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "wisXhKbs4LA_LSvKYKfEv"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGManometer",
+        "label": "压力表",
+        "icon": "manometer",
+        "sensorData": {
+            "pressure": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0.2,
+                    0.2
+                ],
+                "useNode": "JOOWcMMJJUTMDMAQ_2jtE"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    -0.2,
+                    0.2
+                ],
+                "useNode": "9uE4bAkWQ2usCWlO_JcN9"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "",
+            "top": 117,
+            "left": 888
+        },
+        "id": "qxaLkrkRJ_QtVewTZtIBY"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                829,
+                173
+            ],
+            [
+                904,
+                173
+            ]
+        ],
+        "start": {
+            "id": "HisxQ-_weiqTJRD2LxXGR",
+            "location": "r"
+        },
+        "end": {
+            "id": "qxaLkrkRJ_QtVewTZtIBY",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "JOOWcMMJJUTMDMAQ_2jtE"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGCheckValve",
+        "label": "单向阀",
+        "icon": "check-valve",
+        "sensorData": {
+            "traffic": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0
+                ],
+                "useNode": "9uE4bAkWQ2usCWlO_JcN9"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0
+                ],
+                "useNode": "I0gibkOhEouJoPeORwDrI"
+            }
+        ],
+        "switch": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 133,
+            "left": 1041
+        },
+        "id": "4jPmQacz011i8LGmcFGLB"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                952,
+                173
+            ],
+            [
+                1041,
+                173
+            ]
+        ],
+        "start": {
+            "id": "qxaLkrkRJ_QtVewTZtIBY",
+            "location": "r"
+        },
+        "end": {
+            "id": "4jPmQacz011i8LGmcFGLB",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "9uE4bAkWQ2usCWlO_JcN9"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGTeeFitting",
+        "label": "三通",
+        "icon": "tee-fitting",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "t",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "VWUOupShX4Uq9qAvZs8s9",
+                "open": true
+            },
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "sFyK5DmR8PNibU5diyiw-",
+                "open": true
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "gmleN6WiyFd_NL_qqOaGN",
+                "open": true
+            }
+        ],
+        "style": {
+            "rotate": 180,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "top": 372,
+            "left": 669
+        },
+        "id": "ZQ6pt3AgcBeu0UUTC6Fi7"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                1049,
+                404
+            ],
+            [
+                749,
+                404
+            ]
+        ],
+        "start": {
+            "id": "1Ivtk_L_HCvPJR7eVSRRA",
+            "location": "r"
+        },
+        "end": {
+            "id": "ZQ6pt3AgcBeu0UUTC6Fi7",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "sFyK5DmR8PNibU5diyiw-"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGTeeFitting",
+        "label": "三通",
+        "icon": "tee-fitting",
+        "propValue": "",
+        "node": [
+            {
+                "location": "t",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "KnEcy9br0016aEkkOlTUL",
+                "open": true
+            },
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "gmleN6WiyFd_NL_qqOaGN",
+                "open": true
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "t8IvEpVjwYRj9xNlLq3BN",
+                "open": true
+            }
+        ],
+        "style": {
+            "rotate": 180,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "top": 372,
+            "left": 368
+        },
+        "id": "oZE9jSiEfmECmAypY2eJd"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                669,
+                404
+            ],
+            [
+                448,
+                404
+            ]
+        ],
+        "start": {
+            "id": "ZQ6pt3AgcBeu0UUTC6Fi7",
+            "location": "r"
+        },
+        "end": {
+            "id": "oZE9jSiEfmECmAypY2eJd",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "gmleN6WiyFd_NL_qqOaGN"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGFarmland",
+        "label": "田",
+        "icon": "farmland",
+        "sensorData": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "node": [
+            {
+                "location": "t",
+                "excursion": "",
+                "useNode": "Ho5EaTRGsw86RuslrAT9Y"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 681,
+            "left": 368
+        },
+        "id": "xquc2__B4mE5rwY-3zDUW"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGPipeBend",
+        "label": "弯头",
+        "icon": "pipe-bend",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    -0.2
+                ],
+                "useNode": "t8IvEpVjwYRj9xNlLq3BN"
+            },
+            {
+                "location": "b",
+                "excursion": [
+                    -0.23,
+                    0
+                ],
+                "useNode": "zDnCRg4uDe_K9LFum7b0G"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 377,
+            "left": 58
+        },
+        "id": "zWhUsClR_hvqLib-RAFho"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                368,
+                404
+            ],
+            [
+                138,
+                401
+            ]
+        ],
+        "start": {
+            "id": "oZE9jSiEfmECmAypY2eJd",
+            "location": "r"
+        },
+        "end": {
+            "id": "zWhUsClR_hvqLib-RAFho",
+            "location": "r"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "t8IvEpVjwYRj9xNlLq3BN"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGFarmland",
+        "label": "田",
+        "icon": "farmland",
+        "sensorData": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "node": [
+            {
+                "location": "t",
+                "excursion": "",
+                "useNode": "kdRP7p5NJ_RA4cM64gcXM"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 681,
+            "left": 40
+        },
+        "id": "eaLtfbFfmvH9PecCXmdko"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGTeeFitting",
+        "label": "三通",
+        "icon": "tee-fitting",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "t",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "pjjZZ4U1h7Ay2AuDiiVXh",
+                "open": true
+            },
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "E-rcReA8AwFC3AuJ3yTtu",
+                "open": true
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.1
+                ],
+                "useNode": "TlhUF11q95bmg5cbr-zgT",
+                "open": true
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 125,
+            "left": 323
+        },
+        "id": "9uSNkvo8lsw5id8gitxfD"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                236,
+                173
+            ],
+            [
+                323,
+                173
+            ]
+        ],
+        "start": {
+            "id": "HzYoa7JWck11U42LQs-8o",
+            "location": "r"
+        },
+        "end": {
+            "id": "9uSNkvo8lsw5id8gitxfD",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "E-rcReA8AwFC3AuJ3yTtu"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGDecompressionValve",
+        "label": "泄压阀",
+        "icon": "decompression-valve",
+        "propValue": "",
+        "node": [
+            {
+                "location": "b",
+                "excursion": "",
+                "useNode": "pjjZZ4U1h7Ay2AuDiiVXh"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "#4C4C4C",
+            "top": 6,
+            "left": 323
+        },
+        "id": "h1S5TkGjevXsciP-7ZcvR"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                363,
+                133
+            ],
+            [
+                363,
+                86
+            ]
+        ],
+        "start": {
+            "id": "9uSNkvo8lsw5id8gitxfD",
+            "location": "t"
+        },
+        "end": {
+            "id": "h1S5TkGjevXsciP-7ZcvR",
+            "location": "b"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "pjjZZ4U1h7Ay2AuDiiVXh"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGFarmland",
+        "label": "田",
+        "icon": "farmland",
+        "sensorData": [
+            {
+                "id": "",
+                "name": ""
+            }
+        ],
+        "node": [
+            {
+                "location": "t",
+                "excursion": "",
+                "useNode": "GeOnfPBDRcxRsTHxf2Pm8"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 681,
+            "left": 675
+        },
+        "id": "Vd9cHUAH5iyV-a8jIYq6e"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGManometer",
+        "label": "压力表",
+        "icon": "manometer",
+        "sensorData": {
+            "pressure": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0.2,
+                    0.2
+                ],
+                "useNode": "TlhUF11q95bmg5cbr-zgT"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    -0.2,
+                    0.2
+                ],
+                "useNode": "NWkIYR-LGZh_wVShtC8mJ"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "color": "",
+            "top": 117,
+            "left": 469
+        },
+        "id": "IHKilyD4b5oAAkHhvFfc_"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                403,
+                173
+            ],
+            [
+                485,
+                173
+            ]
+        ],
+        "start": {
+            "id": "9uSNkvo8lsw5id8gitxfD",
+            "location": "r"
+        },
+        "end": {
+            "id": "IHKilyD4b5oAAkHhvFfc_",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "TlhUF11q95bmg5cbr-zgT"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                533,
+                173
+            ],
+            [
+                580,
+                173
+            ]
+        ],
+        "start": {
+            "id": "IHKilyD4b5oAAkHhvFfc_",
+            "location": "r"
+        },
+        "end": {
+            "id": "suKo9NX1u_mYaYZrXVuDU",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "NWkIYR-LGZh_wVShtC8mJ"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGSolenoidValve",
+        "label": "电磁阀",
+        "icon": "solenoid-valve",
+        "sensorData": {
+            "traffic": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "vouC4bx9qvkgdFaq5_9PI"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "njttn97ggXnkUzWa7OmR7"
+            }
+        ],
+        "switch": false,
+        "style": {
+            "rotate": 90,
+            "opacity": 1,
+            "width": 70,
+            "height": 70,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 531,
+            "left": 1069
+        },
+        "id": "XDLNwc4OJM5jmEPcZ_zml"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGSolenoidValve",
+        "label": "电磁阀",
+        "icon": "solenoid-valve",
+        "sensorData": {
+            "traffic": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "VWUOupShX4Uq9qAvZs8s9"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "GeOnfPBDRcxRsTHxf2Pm8"
+            }
+        ],
+        "switch": false,
+        "style": {
+            "rotate": 90,
+            "opacity": 1,
+            "width": 70,
+            "height": 70,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 511,
+            "left": 691
+        },
+        "id": "wfl2ISMPT9Ek01uavKlpR"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGSolenoidValve",
+        "label": "电磁阀",
+        "icon": "solenoid-valve",
+        "sensorData": {
+            "traffic": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "KnEcy9br0016aEkkOlTUL"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "Ho5EaTRGsw86RuslrAT9Y"
+            }
+        ],
+        "switch": false,
+        "style": {
+            "rotate": 90,
+            "opacity": 1,
+            "width": 70,
+            "height": 70,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 511,
+            "left": 387
+        },
+        "id": "lje3Z5cqaFqTMageEBy1G"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGSolenoidValve",
+        "label": "电磁阀",
+        "icon": "solenoid-valve",
+        "sensorData": {
+            "traffic": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "zDnCRg4uDe_K9LFum7b0G"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "kdRP7p5NJ_RA4cM64gcXM"
+            }
+        ],
+        "switch": false,
+        "style": {
+            "rotate": 90,
+            "opacity": 1,
+            "width": 70,
+            "height": 70,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 483,
+            "left": 58
+        },
+        "id": "XScfNR0RFtvLwcOZCy8VV"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                79.6,
+                457
+            ],
+            [
+                79,
+                483
+            ]
+        ],
+        "start": {
+            "id": "zWhUsClR_hvqLib-RAFho",
+            "location": "b"
+        },
+        "end": {
+            "id": "XScfNR0RFtvLwcOZCy8VV",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "zDnCRg4uDe_K9LFum7b0G"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                79,
+                553
+            ],
+            [
+                80,
+                681
+            ]
+        ],
+        "start": {
+            "id": "XScfNR0RFtvLwcOZCy8VV",
+            "location": "r"
+        },
+        "end": {
+            "id": "eaLtfbFfmvH9PecCXmdko",
+            "location": "t"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "kdRP7p5NJ_RA4cM64gcXM"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                408,
+                444
+            ],
+            [
+                408,
+                511
+            ]
+        ],
+        "start": {
+            "id": "oZE9jSiEfmECmAypY2eJd",
+            "location": "t"
+        },
+        "end": {
+            "id": "lje3Z5cqaFqTMageEBy1G",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "KnEcy9br0016aEkkOlTUL"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                408,
+                581
+            ],
+            [
+                408,
+                681
+            ]
+        ],
+        "start": {
+            "id": "lje3Z5cqaFqTMageEBy1G",
+            "location": "r"
+        },
+        "end": {
+            "id": "xquc2__B4mE5rwY-3zDUW",
+            "location": "t"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "Ho5EaTRGsw86RuslrAT9Y"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                709,
+                444
+            ],
+            [
+                712,
+                511
+            ]
+        ],
+        "start": {
+            "id": "ZQ6pt3AgcBeu0UUTC6Fi7",
+            "location": "t"
+        },
+        "end": {
+            "id": "wfl2ISMPT9Ek01uavKlpR",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "VWUOupShX4Uq9qAvZs8s9"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                712,
+                581
+            ],
+            [
+                715,
+                681
+            ]
+        ],
+        "start": {
+            "id": "wfl2ISMPT9Ek01uavKlpR",
+            "location": "r"
+        },
+        "end": {
+            "id": "Vd9cHUAH5iyV-a8jIYq6e",
+            "location": "t"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "GeOnfPBDRcxRsTHxf2Pm8"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                1089,
+                444
+            ],
+            [
+                1090,
+                531
+            ]
+        ],
+        "start": {
+            "id": "1Ivtk_L_HCvPJR7eVSRRA",
+            "location": "t"
+        },
+        "end": {
+            "id": "XDLNwc4OJM5jmEPcZ_zml",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "vouC4bx9qvkgdFaq5_9PI"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                1090,
+                601
+            ],
+            [
+                1093,
+                681
+            ]
+        ],
+        "start": {
+            "id": "XDLNwc4OJM5jmEPcZ_zml",
+            "location": "r"
+        },
+        "end": {
+            "id": "B8_D6rpgWnaCqYf9nrdNd",
+            "location": "t"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "njttn97ggXnkUzWa7OmR7"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGPipeBend",
+        "label": "弯头",
+        "icon": "pipe-bend",
+        "propValue": "&nbsp;",
+        "node": [
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    -0.2
+                ],
+                "useNode": "khoXtapMmM6LVojVtJLmE"
+            },
+            {
+                "location": "b",
+                "excursion": [
+                    -0.23,
+                    0
+                ],
+                "useNode": "XOw4jh7atRDV0QT48o6sw"
+            }
+        ],
+        "style": {
+            "rotate": 180,
+            "opacity": 1,
+            "width": 80,
+            "height": 80,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 348,
+            "left": 1550
+        },
+        "id": "SNRqzbsuOCa9r_WGEG1eg"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                1606,
+                226
+            ],
+            [
+                1608.4,
+                348
+            ]
+        ],
+        "start": {
+            "id": "0BnBKU9j16nqbsQonEOVM",
+            "location": "r"
+        },
+        "end": {
+            "id": "SNRqzbsuOCa9r_WGEG1eg",
+            "location": "b"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "XOw4jh7atRDV0QT48o6sw"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                1550,
+                404
+            ],
+            [
+                1129,
+                404
+            ]
+        ],
+        "start": {
+            "id": "SNRqzbsuOCa9r_WGEG1eg",
+            "location": "r"
+        },
+        "end": {
+            "id": "1Ivtk_L_HCvPJR7eVSRRA",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "khoXtapMmM6LVojVtJLmE"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGSolenoidValve",
+        "label": "电磁阀",
+        "icon": "solenoid-valve",
+        "sensorData": {
+            "traffic": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "I0gibkOhEouJoPeORwDrI"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0.2
+                ],
+                "useNode": "0GRTlJ_9amS9C59qLYdgV"
+            }
+        ],
+        "switch": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 70,
+            "height": 70,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 122,
+            "left": 1203
+        },
+        "id": "MiNBzN0Z3icIWxzPebcJr"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                52,
+                310
+            ],
+            [
+                149,
+                308
+            ]
+        ],
+        "start": {
+            "id": "9bjpVF45EGfq-aEwR6unu",
+            "location": "b"
+        },
+        "end": {
+            "id": "bBb365kdrLQiH5ypzdxP8",
+            "location": "r"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "79tqWy_WWP-WbIL3WK2mv"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                52,
+                170
+            ],
+            [
+                172,
+                173
+            ]
+        ],
+        "start": {
+            "id": "O0l0YkIU4MEyArU0H1Usf",
+            "location": "b"
+        },
+        "end": {
+            "id": "HzYoa7JWck11U42LQs-8o",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "cYByD_GApSEtC7kIXCQ5r"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGFlowMeter",
+        "label": "流量计",
+        "icon": "flow-meter",
+        "sensorData": {
+            "traffic": ""
+        },
+        "node": [
+            {
+                "location": "l",
+                "excursion": [
+                    0,
+                    0
+                ],
+                "useNode": "0GRTlJ_9amS9C59qLYdgV"
+            },
+            {
+                "location": "r",
+                "excursion": [
+                    0,
+                    0
+                ],
+                "useNode": "tIZhEeo0nP30raTe7IREy"
+            }
+        ],
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 60,
+            "height": 60,
+            "fontSize": "",
+            "fontWeight": 400,
+            "lineHeight": "",
+            "letterSpacing": 0,
+            "textAlign": "center",
+            "top": 137,
+            "left": 1364
+        },
+        "id": "6v9Zba0UsTieCXQVmTFpz"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                1121,
+                173
+            ],
+            [
+                1203,
+                171
+            ]
+        ],
+        "start": {
+            "id": "4jPmQacz011i8LGmcFGLB",
+            "location": "r"
+        },
+        "end": {
+            "id": "MiNBzN0Z3icIWxzPebcJr",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "I0gibkOhEouJoPeORwDrI"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                1273,
+                171
+            ],
+            [
+                1364,
+                167
+            ]
+        ],
+        "start": {
+            "id": "MiNBzN0Z3icIWxzPebcJr",
+            "location": "r"
+        },
+        "end": {
+            "id": "6v9Zba0UsTieCXQVmTFpz",
+            "location": "l"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "0GRTlJ_9amS9C59qLYdgV"
+    },
+    {
+        "animations": [],
+        "events": {},
+        "groupStyle": {},
+        "isLock": false,
+        "collapseName": "style",
+        "linkage": {
+            "duration": 0,
+            "data": [
+                {
+                    "id": "",
+                    "label": "",
+                    "event": "",
+                    "style": [
+                        {
+                            "key": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "component": "SVGLine",
+        "label": "线",
+        "propValue": "",
+        "icon": "Line",
+        "pointList": [
+            [
+                1424,
+                167
+            ],
+            [
+                1550,
+                167.5999999999999
+            ]
+        ],
+        "start": {
+            "id": "6v9Zba0UsTieCXQVmTFpz",
+            "location": "r"
+        },
+        "end": {
+            "id": "0BnBKU9j16nqbsQonEOVM",
+            "location": "b"
+        },
+        "shape": false,
+        "style": {
+            "rotate": 0,
+            "opacity": 1,
+            "width": 1920,
+            "height": 740,
+            "color": "rgba(9, 176, 248, 1)",
+            "borderColor": "#000",
+            "backgroundColor": "rgba(217, 217, 217, 1)",
+            "animateSwitch": true,
+            "reverseSwitch": false,
+            "speed": 1000,
+            "top": 0,
+            "left": 0,
+            "strokeWidth": "20"
+        },
+        "id": "tIZhEeo0nP30raTe7IREy"
+    }
+]
